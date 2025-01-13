@@ -11,7 +11,9 @@ Data Insights Visualization: Present trends and insights in an interactive and e
 2. Churn Rate by Unlimited Data Plan and Grouped Consumption
 
 3. Churn Rate by State (Geographical Analysis)
+
 ![image](https://github.com/user-attachments/assets/516c723f-2035-49f1-84b4-22fdf7be6806)
+
 📂 Project Files
 Power BI File (.pbix): Download the full Power BI file.
 Dataset: Data extracted from an example telecom dataset, anonymized for demonstration purposes.
