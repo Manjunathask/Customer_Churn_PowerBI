@@ -52,5 +52,6 @@ Contract types
 Payment methods
 Service usage metrics
 Churn status
+
 🔗 Connect with Me
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manjunatha-s-k/)
+LinkedIn: [Manjunatha S K](https://www.linkedin.com/in/manjunatha-s-k/)
